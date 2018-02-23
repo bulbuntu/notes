@@ -2,7 +2,7 @@ This version 2.0 of notes.
 
 Welcome to bulbuntu's notes of various topics.  
 Notes for each topic is in a separate Notebook.  
-To edit the notebooks interactively it would be easier to follow links in **Table Of Contents.md** file.
+To view the notebooks in nbviewer follow links in **Table Of Contents.md** file.
 
 TODO:  
    * Need to write .gitignore files.
